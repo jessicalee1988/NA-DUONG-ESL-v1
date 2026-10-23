@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Na Duong – ESL Primary School",
+  "description": "English for Everyone at School – Ứng dụng tự học và thực hành tiếng Anh thiết thực dành cho cán bộ, giáo viên và nhân viên Trường Tiểu học Na Dương, Lạng Sơn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
